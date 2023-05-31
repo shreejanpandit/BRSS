@@ -1,0 +1,4 @@
+Lab 1: To be familiar with how we can create and save html file with its basic structure
+Lab 2: To be familiar with different paired and unpaired tag in HTML
+Lab 3: To be familiar with class and id attribute, internal css in HTML
+Lab 4: To be familiar with different types of list and border and giving them style using 	internal css

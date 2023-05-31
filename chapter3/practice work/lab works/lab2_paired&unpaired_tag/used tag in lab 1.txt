@@ -1,0 +1,20 @@
+Tag that are used in lab 1:
+Paired tags:
+<html></html>
+<head></head>
+<title></title>
+<body></body>
+<h1></h1>
+<h2></h2>
+<u></u>
+<i></i>
+<b></b>
+<p></p>
+<a href=""></a>
+<abbr title="Date of birth">DOB</abbr>
+
+Unpaired tag:
+<meta charset="UTF-8"/>
+<br/>
+<hr/>
+<img src=""/>
