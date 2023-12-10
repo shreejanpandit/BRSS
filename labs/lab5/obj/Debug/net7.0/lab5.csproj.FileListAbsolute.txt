@@ -1,0 +1,14 @@
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.AssemblyInfoInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.AssemblyInfo.cs
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.csproj.CoreCompileInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\lab5\bin\Debug\net7.0\lab5.exe
+C:\Users\space\Desktop\brss\class12\labs\lab5\bin\Debug\net7.0\lab5.deps.json
+C:\Users\space\Desktop\brss\class12\labs\lab5\bin\Debug\net7.0\lab5.runtimeconfig.json
+C:\Users\space\Desktop\brss\class12\labs\lab5\bin\Debug\net7.0\lab5.dll
+C:\Users\space\Desktop\brss\class12\labs\lab5\bin\Debug\net7.0\lab5.pdb
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.dll
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\refint\lab5.dll
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.pdb
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\lab5.genruntimeconfig.cache
+C:\Users\space\Desktop\brss\class12\labs\lab5\obj\Debug\net7.0\ref\lab5.dll

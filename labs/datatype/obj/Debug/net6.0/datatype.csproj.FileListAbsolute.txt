@@ -1,0 +1,15 @@
+C:\Users\space\Desktop\brss\class12\labs\datatype\bin\Debug\net6.0\datatype.exe
+C:\Users\space\Desktop\brss\class12\labs\datatype\bin\Debug\net6.0\datatype.deps.json
+C:\Users\space\Desktop\brss\class12\labs\datatype\bin\Debug\net6.0\datatype.runtimeconfig.json
+C:\Users\space\Desktop\brss\class12\labs\datatype\bin\Debug\net6.0\datatype.dll
+C:\Users\space\Desktop\brss\class12\labs\datatype\bin\Debug\net6.0\datatype.pdb
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.csproj.AssemblyReference.cache
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.AssemblyInfoInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.AssemblyInfo.cs
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.csproj.CoreCompileInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.dll
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\refint\datatype.dll
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.pdb
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\datatype.genruntimeconfig.cache
+C:\Users\space\Desktop\brss\class12\labs\datatype\obj\Debug\net6.0\ref\datatype.dll

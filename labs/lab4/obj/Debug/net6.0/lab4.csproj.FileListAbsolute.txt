@@ -1,0 +1,14 @@
+C:\Users\space\Desktop\brss\class12\labs\lab4\bin\Debug\net6.0\lab4.exe
+C:\Users\space\Desktop\brss\class12\labs\lab4\bin\Debug\net6.0\lab4.deps.json
+C:\Users\space\Desktop\brss\class12\labs\lab4\bin\Debug\net6.0\lab4.runtimeconfig.json
+C:\Users\space\Desktop\brss\class12\labs\lab4\bin\Debug\net6.0\lab4.dll
+C:\Users\space\Desktop\brss\class12\labs\lab4\bin\Debug\net6.0\lab4.pdb
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.AssemblyInfoInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.AssemblyInfo.cs
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.dll
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\refint\lab4.dll
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.pdb
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\lab4.genruntimeconfig.cache
+C:\Users\space\Desktop\brss\class12\labs\lab4\obj\Debug\net6.0\ref\lab4.dll
