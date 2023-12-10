@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grid</title>
+    <style>
+        body{
+            margin: 0;
+        }
+        .grid-container{
+            height: 100vh;
+            display: grid;
+            grid-template-columns: repeat(12,1fr);
+            grid-template-rows: 1fr 10fr 1fr;
+        }
+        .header{
+            grid-column: 1/13;
+            background-color: aqua;
+        }
+        .lsidebar{
+            background-color: pink;
+            grid-column: 1/5;
+        }
+        .main{
+            grid-column: 5/10;
+            background-color: navajowhite;
+        }
+        .rsidebar{
+            grid-column: 10/13;
+            background-color: red;
+        }
+        .footer{
+            grid-column: 1/13;
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="header">Header</div>
+        <div class="lsidebar">LSidebar</div>
+        <div class="main">Main</div>
+        <div class="rsidebar">Rsidebar</div>
+        <div class="footer">Footer</div>
+    </div>
+
+</body>
+</html>

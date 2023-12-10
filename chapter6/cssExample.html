@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+#borderimg1 {
+  padding:50px;
+  border: 10px solid transparent;
+  border-image-source: url(border.jpg);
+  border-image-slice: 10;
+  border-image-repeat: round;
+  border-image-width: 40px;
+}
+
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 20 round;
+}
+</style>
+</head>
+<body>
+
+<p id="borderimg1">border-image: url(border.png) 50 round;</p>
+<p id="borderimg2">border-image: url(border.png) 50 round;</p>
+
+</body>
+</html>
