@@ -1,8 +1,0 @@
-1. C#, used for, Why c#, Features, Basic structure, Varibles, datatypes, type casting, operators
-
-2. Control statement , loops, switch statement, Conditional statements, Jump statements
-
-3. Array, Decleration/initilization, types, jagged array, params array, Array class and its characteristics.
-
-
-pattern, palindrome, fibonacci, param , jagged, switch, 

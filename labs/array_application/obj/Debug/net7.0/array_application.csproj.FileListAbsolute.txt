@@ -1,0 +1,14 @@
+C:\Users\space\Desktop\brss\class12\labs\array_application\bin\Debug\net7.0\array_application.exe
+C:\Users\space\Desktop\brss\class12\labs\array_application\bin\Debug\net7.0\array_application.deps.json
+C:\Users\space\Desktop\brss\class12\labs\array_application\bin\Debug\net7.0\array_application.runtimeconfig.json
+C:\Users\space\Desktop\brss\class12\labs\array_application\bin\Debug\net7.0\array_application.dll
+C:\Users\space\Desktop\brss\class12\labs\array_application\bin\Debug\net7.0\array_application.pdb
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.AssemblyInfoInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.AssemblyInfo.cs
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.csproj.CoreCompileInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.dll
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\refint\array_application.dll
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.pdb
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\array_application.genruntimeconfig.cache
+C:\Users\space\Desktop\brss\class12\labs\array_application\obj\Debug\net7.0\ref\array_application.dll

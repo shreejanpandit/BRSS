@@ -1,35 +1,35 @@
 ﻿
 
-using System;
+// using System;
 
-namespace BasicStructure
-{
-    class Program
-    {
-        static void Main(String[] args)
-        {
+// namespace BasicStructure
+// {
+//     class Program
+//     {
+//         static void Main(String[] args)
+//         {
 
-            string str = "step on no pets", revstr = "";
-            int len = str.Length;
+//             string str = "step on no pets", revstr = "";
+//             int len = str.Length;
 
-            for (int i = len - 1; i >= 0; i--)
-            {
-                revstr = revstr + str[i];
-            }
-            if (str == revstr)
-            {
-                System.Console.WriteLine("Palindrome!!!");
-                System.Console.WriteLine("Its total length is " + len);
-            }
-            else
-            {
-                System.Console.WriteLine("Not a palindrome");
-                System.Console.WriteLine("Reverse string is..... {0}", revstr);
-            }
-        }
-    }
+//             for (int i = len - 1; i >= 0; i--)
+//             {
+//                 revstr = revstr + str[i];
+//             }
+//             if (str == revstr)
+//             {
+//                 System.Console.WriteLine("Palindrome!!!");
+//                 System.Console.WriteLine("Its total length is " + len);
+//             }
+//             else
+//             {
+//                 System.Console.WriteLine("Not a palindrome");
+//                 System.Console.WriteLine("Reverse string is..... {0}", revstr);
+//             }
+//         }
+//     }
 
-}
+// }
 
 
 
@@ -131,26 +131,31 @@ namespace BasicStructure
 
 
 
-// using System;
-// namespace ArrayApplication {
-//  class MyArray {
-// static void Main(string[] args) {
-//  int []  n = new int[10]; /* n is an array of 10 integers */
-//  int i,j;
-//  /* initialize elements of array n */
-//  for ( i = 0; i < 10; i++ ) {
-//     n[ i ] = i + 100;
-//  }
+using System;
+namespace ArrayApplication
+{
+    class MyArray
+    {
+        static void Main(string[] args)
+        {
+            int[] n = new int[10]; /* n is an array of 10 integers */
+            int i, j;
+            /* initialize elements of array n */
+            for (i = 0; i < 10; i++)
+            {
+                n[i] = i + 100;
+            }
 
-//  /* output each array element's value */
-//  for (j = 0; j < 10; j++ ) {
-//     Console.WriteLine("Element[{0}] = {1}", j,n[j]);
-//  }
-// //     Console.WriteLine();
-// //   for (j = 0; j < 10; j++ ) {
-// //     Console.WriteLine("Element[" + j +"] = " + n[j]);
-// //  }
+            /* output each array element's value */
+            for (j = 0; j < 10; j++)
+            {
+                Console.WriteLine("Element[{0}] = {1}", j, n[j]);
+            }
+            //     Console.WriteLine();
+            //   for (j = 0; j < 10; j++ ) {
+            //     Console.WriteLine("Element[" + j +"] = " + n[j]);
+            //  }
 
-// }
-//  }
-// }
+        }
+    }
+}

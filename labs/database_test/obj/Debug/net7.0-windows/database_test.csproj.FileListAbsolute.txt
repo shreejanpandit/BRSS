@@ -1,0 +1,14 @@
+C:\Users\space\Desktop\brss\class12\labs\database_test\bin\Debug\net7.0-windows\database_test.exe
+C:\Users\space\Desktop\brss\class12\labs\database_test\bin\Debug\net7.0-windows\database_test.deps.json
+C:\Users\space\Desktop\brss\class12\labs\database_test\bin\Debug\net7.0-windows\database_test.runtimeconfig.json
+C:\Users\space\Desktop\brss\class12\labs\database_test\bin\Debug\net7.0-windows\database_test.dll
+C:\Users\space\Desktop\brss\class12\labs\database_test\bin\Debug\net7.0-windows\database_test.pdb
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.AssemblyInfoInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.AssemblyInfo.cs
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.csproj.CoreCompileInputs.cache
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.dll
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\refint\database_test.dll
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.pdb
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\database_test.genruntimeconfig.cache
+C:\Users\space\Desktop\brss\class12\labs\database_test\obj\Debug\net7.0-windows\ref\database_test.dll
