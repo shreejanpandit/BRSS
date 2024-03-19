@@ -28,3 +28,4 @@ gitignored/
 *.docx
 *.ppt
 *.pptx
+*.gitignore
